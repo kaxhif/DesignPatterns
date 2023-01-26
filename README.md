@@ -7,3 +7,5 @@
 - Builder Pattern
 - Prototype Pattern
 - Flyweight
+- State Pattern
+- Iterator (in MyVector)
